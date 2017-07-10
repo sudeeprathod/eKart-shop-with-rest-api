@@ -1,0 +1,34 @@
+{
+  "name": "mean-shop-rest-api",
+  "version": "1.0.0",
+  "description": "Ecommerce site backed built on MEAN stack with REST APIs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mean",
+    "shop",
+    "mean",
+    "ecommerce",
+    "rest",
+    "apis"
+  ],
+  "author": "Sudeep Rathod",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "latest",
+    "connect-mongo": "latest",
+    "cookie-parser": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "express-session": "latest",
+    "fs": "latest",
+    "method-override": "latest",
+    "mongoose": "latest",
+    "morgan": "latest",
+    "path": "latest",
+    "synchronize": "latest"
+  }
+}

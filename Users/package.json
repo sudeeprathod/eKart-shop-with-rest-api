@@ -1,0 +1,30 @@
+{
+  "name": "eKart-shop-Users",
+  "version": "1.0.0",
+  "description": "Ecommerce site backed built on MEAN stack with REST APIs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mean",
+    "nodejs",
+    "expressjs",
+    "angularjs",
+    "mongodb"
+],"author": "Sudeep Rathod",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "latest",
+    "connect-mongo": "latest",
+    "cookie-parser": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "express-session": "latest",
+    "lodash": "latest",
+    "method-override": "latest",
+    "mongoose": "latest",
+    "morgan": "latest",
+    "shortid": "latest"
+  }
+}
